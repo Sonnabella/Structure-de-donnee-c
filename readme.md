@@ -1,8 +1,6 @@
-# File de segments en C
+### TP de structures de données : implémentation d'une file (FIFO) de segments du plan cartésien, avec calcul du milieu à chaque défilement.
 
-TP de structures de données : implémentation d'une file (FIFO) de segments du plan cartésien, avec calcul du milieu à chaque défilement.
-
-![Énoncé du sujet 3](images/sujet3.png)
+![Énoncé du sujet 3](images/image.png)
 
 ## Contexte
 
