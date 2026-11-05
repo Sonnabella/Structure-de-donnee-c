@@ -1,0 +1,4 @@
+sujet3main
+*.o
+*.out
+.vscode/
