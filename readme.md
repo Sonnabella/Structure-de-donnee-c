@@ -101,4 +101,4 @@ Une meilleure maîtrise des pointeurs et de la gestion mémoire en C, et une bas
 ## Auteur
 
 **Ton nom ou pseudo**
-[github.com/ton-pseudo](https://github.com/Sonnabella)
+[Sonnabella](https://github.com/Sonnabella)
